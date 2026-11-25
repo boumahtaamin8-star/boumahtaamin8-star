@@ -62,16 +62,6 @@ I'm passionate about technology, programming, and cybersecurity. I enjoy explori
 | 🇩🇪 German | A2 |
 | 🇫🇷 French | B1 |
 
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/boumahtaamin8-star/mini-soc-log-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=boumahtaamin8-star&repo=mini-soc-log-analyzer&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 ## 🎯 Current Goals
 
 - Strengthen my Computer Science fundamentals.
